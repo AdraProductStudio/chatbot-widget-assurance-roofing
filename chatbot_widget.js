@@ -295,7 +295,7 @@
                             .Adra-MR-chatbot .Adra-MR-chatbox {
                                 height: 510px;
                                 overflow-y: scroll;
-                                padding: 15px 20px 70px;
+                                padding: 15px 20px 30px;
                                 margin-left: 0;
                             }
 
@@ -330,7 +330,7 @@
                                 position: absolute;
                                 bottom: 0;
                                 width: 100%;
-                                padding: 14px;
+                                padding: 0 14px;
                                 display: flex;
                                 gap: 5px;
                                 background: #fff;
