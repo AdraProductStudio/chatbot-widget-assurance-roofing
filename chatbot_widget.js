@@ -51,7 +51,7 @@
 
                                 :root {
                                 --lightblue: #e3f2fd;
-                                --overall-theme: #162D73;
+                                --overall-theme: #B8050B;
                             }
 
                             * {
@@ -295,7 +295,7 @@
                             .Adra-MR-chatbot .Adra-MR-chatbox {
                                 height: 510px;
                                 overflow-y: scroll;
-                                padding: 15px 20px 30px;
+                                padding: 15px 20px 70px;
                                 margin-left: 0;
                             }
 
@@ -330,7 +330,7 @@
                                 position: absolute;
                                 bottom: 0;
                                 width: 100%;
-                                padding: 0 14px;
+                                padding: 15px 14px;
                                 display: flex;
                                 gap: 5px;
                                 background: #fff;
@@ -340,7 +340,7 @@
                                 outline: none;
                                 font-size: 0.95rem;
                                 resize: none;
-                                padding: 6px 16px;
+                                padding: 10px 16px;
                                 width: 90%;
                                 height: 40px;
                                 border-radius: 10px;
@@ -590,7 +590,7 @@
                                 height: 510px;
                                 overflow-y: scroll;
                                 padding: 15px 20px 10px;
-                                height: 76vh; 
+                                height: 85vh; 
                             }
 
                             .Adra-MR-chatbot header .close-icon {
@@ -757,6 +757,7 @@
             const minimizedScreenCloseIcon = document.createElement("p")
             minimizedScreenCloseIcon.className = "MR material-symbols-outlined close-icon chatbot-close-icon"
             minimizedScreenCloseIcon.innerText = "close"
+            minimizedScreenCloseIcon.style.cursor = "pointer"
             MRheader.append(MRh2, minimizedScreenCloseIcon)
 
             const MRChatContainer = document.createElement("div")
