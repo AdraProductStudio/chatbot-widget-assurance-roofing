@@ -850,7 +850,7 @@
             essenceImg.className = "essence-img";
             essenceImg.setAttribute(
                 "src",
-                "https://d1olhs2thomfrd.cloudfront.net/bot-incoming-msg-icon.png"
+                "https://static.wixstatic.com/media/4f4db3_026f74a64ef747158404d4fee0e145af~mv2.png/v1/fill/w_106,h_71,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/AE-New-Logo-Red-White_edited.png"
             );
 
             
@@ -993,7 +993,7 @@
                     essenceImg2.className = "essence-img";
                     essenceImg2.setAttribute(
                         "src",
-                        "https://d1olhs2thomfrd.cloudfront.net/bot-incoming-msg-icon.png"
+                        "https://static.wixstatic.com/media/4f4db3_026f74a64ef747158404d4fee0e145af~mv2.png/v1/fill/w_106,h_71,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/AE-New-Logo-Red-White_edited.png"
                     );
                     var incomingMsgText2 = document.createElement("p");
                     incomingMsgText2.className = "placeholder-msg-text";
@@ -1098,7 +1098,7 @@
                         essenceImg.className = "essence-img";
                         essenceImg.setAttribute(
                             "src",
-                            "https://d1olhs2thomfrd.cloudfront.net/bot-incoming-msg-icon.png"
+                            "https://static.wixstatic.com/media/4f4db3_026f74a64ef747158404d4fee0e145af~mv2.png/v1/fill/w_106,h_71,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/AE-New-Logo-Red-White_edited.png"
                         );
 
 
@@ -1127,7 +1127,7 @@
                     essenceImg.className = "essence-img";
                     essenceImg.setAttribute(
                         "src",
-                        "https://d1olhs2thomfrd.cloudfront.net/bot-incoming-msg-icon.png"
+                        "https://static.wixstatic.com/media/4f4db3_026f74a64ef747158404d4fee0e145af~mv2.png/v1/fill/w_106,h_71,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/AE-New-Logo-Red-White_edited.png"
                     );
 
            
@@ -1159,7 +1159,7 @@
                     essenceImg.className = "essence-img";
                     essenceImg.setAttribute(
                         "src",
-                        "https://d1olhs2thomfrd.cloudfront.net/bot-incoming-msg-icon.png"
+                        "https://static.wixstatic.com/media/4f4db3_026f74a64ef747158404d4fee0e145af~mv2.png/v1/fill/w_106,h_71,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/AE-New-Logo-Red-White_edited.png"
                     );
 
            
